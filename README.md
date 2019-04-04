@@ -2,7 +2,7 @@
 
 SeleniumToolkit is a Java library that allows for faster development of functional automation testing scripts with Selenium.
 
-Please note: Further updates and maintenance for the SeleniumToolkit will be continued in the forked repository located here - https://github.com/dwhit88/SeleniumToolkit.
+Please note: This repository is an approved fork/clone of the SmashingBoxes/SeleniumToolkit repository. Further updates and maintenance will occur here and not in the other repository.
 
 The toolkit handles the following:
 
